@@ -17,6 +17,6 @@ Principal engineer and independent consultant in Cluj-Napoca, Romania. Backend s
 
 **Before**: lead developer on a crypto exchange, open-source developer at Snyk, team lead at iWelcome (identity platform), Java developer at 3Pillar Global.
 
-**Writing**: privacy and security posts at [sfat.me/blog](https://sfat.me/blog/).
+**Writing**: [sfat.me/blog](https://sfat.me/blog/), on building software, running it in production, and staying private online.
 
 **Contact**: [sfat.me](https://sfat.me) · [LinkedIn](https://www.linkedin.com/in/andrei-sfat-b19238350)
